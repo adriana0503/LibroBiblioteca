@@ -15,7 +15,7 @@ public class Biblioteca{
         Odisea.setISBN(9789583043888);
          //llama al configurador de Titulo, y le damos el valor Odisea
         Odisea.setTitulo("Odisea");
-        //llama al metodo tostring, y muestra el contenido de la clase libro Odisea
+        //llama al metodo tostring, y muestra el contenido de la clase libro agrgandole los valores que le dimos a  Odisea
         Odisea.tostring();
 
         //llama al configurador de autor, y le damos el valor Bram Stoker
@@ -26,7 +26,7 @@ public class Biblioteca{
         Dracula.setISBN(9780786181483);
         //llama al configurador de Titulo, y le damos el valor Dracula
         Dracula.setTitulo("Dracula");
-        //llama al metodo tostring, y muestra el contenido de la clase libro Dracula
+        //llama al metodo tostring, y muestra el contenido de la clase libro agrgandole los valores que le dimos a Dracula
         Dracula.tostring();
     
       //condicion Si, para saber cual de los dos libros tiene mas pagina
